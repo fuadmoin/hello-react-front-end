@@ -1,10 +1,15 @@
-/* eslint-disable */
 import './App.css';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './component/Home';
 
 function App() {
   return (
     <div className="App">
-      <p className="content font-bold">This is the content.</p>
+      <Router>
+        <Routes>
+          <Route path="/" element={<Home />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
