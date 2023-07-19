@@ -5,7 +5,7 @@
   <img src="./img/logo2.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Title</b></h3>
+  <h3><b>Hello react front end</b></h3>
 
 </div>
 
@@ -15,14 +15,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-- [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -30,26 +27,21 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Math magicians <a name="about-project"></a>
+# 📖 Hello react front end <a name="about-project"></a>
 
-**Math magicians** is a single page app that uses api for a basic calculator.
+**Hello react front end** is a simple project that fetchs greeting messages from the [rails](https://github.com/fuadmoin/hello-rails-back-end) API end point.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- **HTML, CSS, React, and JavaScript**
+- **React, Redux, API, and Tailwind**
 
 ### Key Features <a name="key-features"></a>
 
-- **html styled with css and javascript**
-- **uses react**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"> </a>
-
-> Check out the live demo for this project [here.](https://fuadmoin.github.io/TODOLIST/dist/)
+- **Uses redux toolkits**
+- **Uses API**
+- **Uses Tailwind CSS**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,7 +67,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git https://github.com/fuadmoin/Math-magicians.git
+  git https://github.com/fuadmoin/hello-react-front-end.git
 ```
 
 ### Install <a name="install"></a>
@@ -93,18 +85,6 @@ npm install
   npm start
 ```
 
-### Run tests <a name="run-tests"></a>
-
-To test, run the following command:
-
-```sh
-npm test
-```
-
-### Deployment <a name="triangular_flag_on_post-deployment"></a>
-
-You can deploy this project using Github-Page.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author <a name="authors"></a>
@@ -113,21 +93,21 @@ You can deploy this project using Github-Page.
 
 - GitHub: [@fuadmoin](https://github.com/fuadmoin)
 - Twitter: [@Fuad01804580](https://twitter.com/Fuad01804580)
-- LinkedIn: [Fuad Moin](https://www.linkedin.com/in/fuad-moin-a7b126259/)
+- LinkedIn: [Fuad Moin](https://www.linkedin.com/in/fuadmoin/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[HTML, CSS, and Javascript will be added]**
-- [ ] **[Api will be added]**
-- [ ] **[users will be able to use the calculator]**
+- [ ] **[More components will be added]**
+- [ ] **[Users will be able to send greeting to the API]**
+- [ ] **[Unit tests will be added.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, [issues](https://github.com/fuadmoin/Math-magicians/issues), and feature requests are welcome!
+Contributions, [issues](https://github.com/fuadmoin/hello-react-front-end/issues), and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +119,7 @@ If you like this project please consider starring it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://www.microverse.org/).
+I would like to thank Microverse for giving me this chance to work on this awesome project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
